@@ -12,6 +12,12 @@ git submodule update --init --recursive
 
 ## Building on Linux
 
+(On Ubuntu 16) Install pre-requisites:
+
+```bash
+sudo apt-get install libqt5keychain0 qt5keychain-dev libqt5webkit5-dev qt5declarative5-dev qttools5-dev-tools
+```
+
 Run:
 
 ```bash
