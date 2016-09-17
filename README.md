@@ -7,6 +7,9 @@ Based on https://github.com/owncloud/client/blob/master/doc/building.rst
 
 Run:
 ```bash
+cd ~
+git clone https://github.com/nextcloud/client_theming.git
+cd client_theming 
 git submodule update --init --recursive
 ```
 
